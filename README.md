@@ -1,5 +1,6 @@
 # MyBigTask
 Country Directory
+
 An application which displays a list of cities of a specific country. It should perform the following:
 1. Download a list of countries and cities from https://raw.githubusercontent.com/David-Haim/CountriesToCitiesJSON/master/countriesToCities.json
 2. Parse that list into a local database.
